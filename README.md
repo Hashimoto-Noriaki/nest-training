@@ -45,6 +45,16 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+# ESLint Prettier
+- ESLint
+```
+npx eslint . --fix
+```
+- Prettier
+```
+npx prettier --write .
+```
+
 ## Run tests
 
 ```bash
